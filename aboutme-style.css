@@ -1,0 +1,52 @@
+h1{
+	color: #2830c9;
+font-size: 40px;
+font-family: Tahoma;
+text-align: center;
+}
+p{
+		font-size: 20px;
+		font-family: Tahoma;
+
+}
+
+p:first-letter {
+    float: left;
+    font-size: 45px;
+    line-height: 1;
+    font-weight: bold;
+    margin-right: 9px;
+}
+
+
+body{
+	background-color: #45f597;
+}
+
+h3{
+	color: #fc1212;
+	font-size: 30px;
+	font-family: Tahoma;
+
+}
+h4{
+	color: #695f56;
+	font-size: 25px;
+	font-family: Tahoma;
+}
+ul{
+	font-size: 20px;
+		font-family: Tahoma;
+		font-style: italic;
+		
+}
+a:link {
+  text-decoration: none;
+
+}
+a:hover {
+  text-decoration: underline;
+}
+a:visited {
+  text-decoration: none;
+}
